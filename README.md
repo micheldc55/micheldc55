@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @micheldc55
-- 👀 I’m interested in Data Science, Statistics and Brazilian Jiu Jitsu stats!
+- 👀 I’m interested in Data Science, Big Data, Statistics and Brazilian Jiu Jitsu stats!
 - 🌱 I’m currently learning NLP and Statistics, but work mostly on Data Science
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/michel-davidovich-ds/)
 
