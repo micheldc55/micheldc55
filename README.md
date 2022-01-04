@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @micheldc55
 - 👀 I’m interested in Data Science, Big Data, Statistics and Brazilian Jiu Jitsu stats!
-- 🌱 I’m currently learning NLP and Statistics, but work mostly on Data Science
+- 🌱 I’m currently learning working on personal projects on NLP and Image Similarity with Deep Learning, but work mostly on Data Science
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/michel-davidovich-ds/)
 
 I'm passionate about Data Science. I'm currently working on Map Analytics for an European Map provider in Madrid, Spain. Unfortunately, that means that I cannot disclose exactly what I'm working on nor the company name, but we do a lot of analytics and ML models related to Map performance and user interactions.
