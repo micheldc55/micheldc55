@@ -1,7 +1,7 @@
 ## Who I am...
 
 - 👋 Hi, I’m @micheldc55
-- 👀 I’m interested in Data Science, Big Data, Statistics and Brazilian Jiu Jitsu stats!
+- 👀 I’m interested in Deep Learning, Data Science, Big Data, Statistics and Brazilian Jiu Jitsu stats! But the thing I like the most is definitely Deep Learning!
 - 🌱 I’m currently learning working on personal projects on NLP and Image Similarity with Deep Learning, but work mostly on Data Science
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/michel-davidovich-ds/)
 
