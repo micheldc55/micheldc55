@@ -5,7 +5,7 @@
 - 🌱 I’m currently working on personal projects related to Text generation and Indexing and Image Similarity with Deep Learning, but work mostly on Data Science in my job.
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/michel-davidovich-ds/)
 
-I'm passionate about Data Science. I'm currently working for a European airline company, in projects related to flight loads and in projects related to text generation and indexing through LLMs.
+I'm passionate about Data Science. I'm currently working for a European airline company, my main work is in Dynamic Pricing by probabillistic modelling. But I've also worked in projects related to flight loads and in projects related to text generation and indexing through LLMs.
 
 I used to work on Map Analytics for an European Map provider in Madrid, Spain. Unfortunately, that means that I cannot disclose exactly what I'm working on nor the company name, but we do a lot of analytics and ML models related to Map performance and user interactions. I'm also a Kaggle Expert, constantly trying to improve my DS skillset, so [check me out](https://www.kaggle.com/micheldc55) if you can! Feedback is appreaciated!
 
